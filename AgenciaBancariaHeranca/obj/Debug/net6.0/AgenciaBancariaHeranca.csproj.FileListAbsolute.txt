@@ -1,0 +1,15 @@
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\bin\Debug\net6.0\AgenciaBancariaHeranca.exe
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\bin\Debug\net6.0\AgenciaBancariaHeranca.deps.json
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\bin\Debug\net6.0\AgenciaBancariaHeranca.runtimeconfig.json
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\bin\Debug\net6.0\AgenciaBancariaHeranca.dll
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\bin\Debug\net6.0\AgenciaBancariaHeranca.pdb
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.AssemblyInfoInputs.cache
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.AssemblyInfo.cs
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.dll
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\refint\AgenciaBancariaHeranca.dll
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.pdb
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\AgenciaBancariaHeranca.genruntimeconfig.cache
+C:\Users\2022102020041\source\repos\AgenciaBancariaHeranca\AgenciaBancariaHeranca\obj\Debug\net6.0\ref\AgenciaBancariaHeranca.dll
