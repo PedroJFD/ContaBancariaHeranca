@@ -39,7 +39,7 @@ namespace AgenciaBancariaHeranca.Classes
                 if (valor <= Saldo)
                 {
                     Saldo = Saldo - valor -5;
-                    Console.WriteLine($"Você sacou {valor} reais, -5 reais no saldo de taxa.");
+                    Console.WriteLine($"Você sacou {valor} reais, foi descontado 5 reais por conta de taxas.");
                 }
                 else
                 {
