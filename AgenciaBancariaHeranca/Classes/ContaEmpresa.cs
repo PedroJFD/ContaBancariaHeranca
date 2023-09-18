@@ -25,6 +25,8 @@ namespace AgenciaBancariaHeranca.Classes
             if(valorEmprestimo <= LimiteEmprestimo)
             {
                 TotalEmprestimo = valorEmprestimo - TotalEmprestimo;
+                Saldo = valorEmprestimo + Saldo;
+                Console.WriteLine("Emprestimo concluido.");
             }
             else
             {

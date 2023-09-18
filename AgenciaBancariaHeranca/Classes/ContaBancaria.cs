@@ -37,8 +37,11 @@ namespace AgenciaBancariaHeranca.Classes
 
         public virtual void Depositar(double valor)
         {
-            Saldo = Saldo + valor;
-            Console.WriteLine($"Você depositou!");
+            if(valor >= 0)
+            {
+                Saldo = Saldo + valor;
+                Console.WriteLine($"Você depositou! Seu saldo agora é {Saldo} reais.");
+            }
         }
     }
 }
